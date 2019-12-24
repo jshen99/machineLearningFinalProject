@@ -27,6 +27,6 @@ For this data set we attempt to learn a model that performs binary classificatio
 We used this dataset to do exploratory analysis and clustering of the dataset
 
 3 methods used:
-1. K-means clustering - Jon Hong
-2. TBD - Joe
-3. TBD - Justin
+1. K-means clustering - Joe
+2. Gaussian Mixture Model - Jon Hong
+3. Heirarchial Agglomerative Clustering - Justin
